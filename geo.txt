@@ -1,0 +1,8 @@
+What is the capital of France?;a-->London;b-->Paris;c-->Berlin;d-->Madrid;b
+Which country is the largest by land area?;a-->China;b-->United States;c-->Russia;d-->Canada;c
+What is the longest river in the world?;a-->Amazon River;b-->Nile River;c-->Yangtze River;d-->Mississippi River;b
+Which continent is known as the 'Dark Continent'?;a-->Asia;b-->Africa;c-->Australia;d-->South America;b
+Mount Everest is located in which mountain range?;a-->Andes;b-->Himalayas;c-->Rockies;d-->Alps;b
+What is the largest ocean on Earth?;a-->Atlantic Ocean;b-->Indian Ocean;c-->Arctic Ocean;d-->Pacific Ocean;d
+Which desert is the largest in the world?;a-->Sahara Desert;b-->Gobi Desert;c-->Kalahari Desert;d-->Atacama Desert;a
+What is the smallest country in the world?;a-->Monaco;b-->Vatican City;c-->Nauru;d-->San Marino;b

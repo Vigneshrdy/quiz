@@ -1,0 +1,8 @@
+Who was the first President of the United States?;a-->George Washington;b-->Thomas Jefferson;c-->Abraham Lincoln;d-->John Adams;a
+What year did World War I begin?;a-->1914;b-->1939;c-->1920;d-->1945;a
+Which civilization is known for building the Colosseum?;a-->Greeks;b-->Romans;c-->Egyptians;d-->Aztecs;b
+Who was the first person to step on the moon?;a-->Neil Armstrong;b-->Buzz Aldrin;c-->Yuri Gagarin;d-->Alan Shepard;a
+What was the name of the ship that carried the Pilgrims to America in 1620?;a-->Mayflower;b-->Santa Maria;c-->Titanic;d-->Endeavour;a
+What was the main cause of the Cold War?;a-->Communism vs. Capitalism;b-->World War I;c-->The French Revolution;d-->The Industrial Revolution;a
+Who was the longest reigning monarch in British history?;a-->Queen Elizabeth II;b-->Queen Victoria;c-->King George III;d-->King Henry VIII;a
+What event triggered the start of World War II?;a-->The assassination of Archduke Franz Ferdinand;b-->The invasion of Poland;c-->The bombing of Pearl Harbor;d-->The signing of the Treaty of Versailles;b
